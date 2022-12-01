@@ -1,0 +1,12 @@
+{
+  "name": "bengalshop-frontend",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "nuxt": "^3.0.0"
+  }
+}

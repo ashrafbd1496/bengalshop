@@ -1,0 +1,1 @@
+export { default } from "file:///opt/lampp/htdocs/nuxtApp/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"

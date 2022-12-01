@@ -1,0 +1,9 @@
+{
+  "_hash": "woD9KcsDoa",
+  "project": {
+    "rootDir": "/opt/lampp/htdocs/nuxtApp"
+  },
+  "versions": {
+    "nuxt": "3.0.0"
+  }
+}
